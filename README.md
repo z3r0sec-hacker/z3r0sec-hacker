@@ -18,7 +18,6 @@ Hi there! I'm **z3r0sec** a passionate and aspiring  Bug Bounty Hunter & Penetra
 [![HackerOne](https://img.shields.io/badge/HackerOne-%230E0B1D.svg?logo=hackerone&logoColor=white)](https://hackerone.com/z3r0sec_)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF4F00.svg?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/z3r0sec)
 
-# 💻 Tech Stack:
 # 🔒 Cybersecurity & Development Skills
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
