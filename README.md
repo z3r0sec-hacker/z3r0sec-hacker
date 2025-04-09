@@ -34,9 +34,3 @@ Hi there! I'm **z3r0sec** a passionate and aspiring  Bug Bounty Hunter & Penetra
 ![SQLmap](https://img.shields.io/badge/SQLmap-%23D32F2F.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-%23000000.svg?style=for-the-badge&logo=netcat&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-%23000A5E.svg?style=for-the-badge&logo=hydra&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=z3rosec&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=z3rosec&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=z3rosec&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
