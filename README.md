@@ -12,11 +12,14 @@ Hi there! I'm **z3r0sec** a passionate and aspiring  Bug Bounty Hunter & Penetra
 
 
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m03az.ahmed?igsh=OTllOGgwNnIycDZy) 
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/share/2a7rxjUvznfHhbCT/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-ahmed-a80808316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![HackerOne](https://img.shields.io/badge/HackerOne-%230E0B1D.svg?logo=hackerone&logoColor=white)](https://hackerone.com/z3r0sec_)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF4F00.svg?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/z3r0sec)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@z3r0sec.hacker)
+
 
 # 🔒 Cybersecurity & Development Skills
 
